@@ -33,3 +33,12 @@
     background: #f44336;
     transition: 1s;
 }
+/*----Today-----*/
+.Today h1{
+    width: 80%;
+    margin-top: 100px;
+    margin-left: 600px;
+}
+.Today p{
+    margin-left: 300px;
+}
