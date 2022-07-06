@@ -35,10 +35,36 @@
 }
 /*----Today-----*/
 .Today h1{
-    width: 80%;
-    margin-top: 100px;
-    margin-left: 600px;
+    text-align: center;
 }
 .Today p{
     margin-left: 300px;
+}
+.button{
+    padding: 20px 0px;
+    text-align: center;
+    margin: 20px 10px;
+}
+.Input{
+    text-align: center;
+}
+.row{
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-between;
+
+}
+.row{
+    margin-top: 5%;
+   display: flexbox;
+}
+.course-col{
+
+    flex-basis: 31%;
+    background-color: bisque;
+    margin-bottom: 5%;
+    border-radius: 10px;
+    padding: 10px 5px;
+   
+
 }
